@@ -1,2 +1,2 @@
 # giant_shoulder
-knowledge base
+This is my knowledge base. Any comment or suggestion is welcomed.
